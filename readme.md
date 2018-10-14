@@ -1,7 +1,7 @@
 ## Flashcards
 
 ### App Description
-`TODO://` A basic flashcard app that reveals the answer with a tap
+A basic flashcard app that reveals the answer with a tap
 
 ### App Walk-though
 
